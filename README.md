@@ -1,4 +1,4 @@
-**Summary of Home Sales Data Analysis**
+**Home Sales Data Analysis**
 
 1. **Data Import and Setup:**
    - The home sales data from the provided CSV file was loaded into a Spark DataFrame and a temporary table named `home_sales` was created.
